@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1686237350060,
+      "tag": "0000_dark_diamondback",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1686241267955,
+      "tag": "0001_mysterious_mephistopheles",
+      "breakpoints": false
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1686247767999,
+      "tag": "0002_dark_jamie_braddock",
+      "breakpoints": false
+    }
+  ]
+}
